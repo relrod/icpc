@@ -1,0 +1,11 @@
+10
+this should print
+the lines in
+the correct order
+and there should
+be ten of
+them so that
+we can be
+sure that it
+works as expected
+that is all
