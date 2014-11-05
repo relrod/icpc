@@ -1,4 +1,4 @@
-# ICPC Templates and Notes
+# ICPC Templates and Notes [![Build Status](https://travis-ci.org/relrod/icpc.svg)](https://travis-ci.org/relrod/icpc)
 
 For the ICPC Programming Competition, contestants are allowed to print out
 notes and code before the competition.
